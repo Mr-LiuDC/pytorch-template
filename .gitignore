@@ -1,0 +1,11 @@
+*.vs
+.idea
+.vscode
+.project
+*.DS_Store
+
+venv
+*.pyc
+*.zip
+*.log
+__pycache__
