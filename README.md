@@ -7,6 +7,7 @@ PyTorch 模版项目。
 ```
 pytorch-template
 ├── config                # 配置文件目录
+├── deploy                # 模型部署脚本
 ├── docs                  # 说明文档目录
 ├── inputs                # 数据集的目录
 ├── models                # 网络模型目录
