@@ -9,3 +9,8 @@ venv
 *.zip
 *.log
 __pycache__
+
+inputs
+!inputs/.gitkeep
+outputs
+!outputs/.gitkeep
